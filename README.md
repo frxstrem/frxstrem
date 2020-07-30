@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=frxstrem&show_icons=true&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frxstrem&theme=dark" />
+![](https://github-readme-stats.vercel.app/api?username=frxstrem&count_private=true&show_icons=true&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frxstrem&theme=dark)
 
 <!--
 **frxstrem/frxstrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
