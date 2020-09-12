@@ -18,14 +18,14 @@ My name is Fredrik Østrem and I'm a full-stack developer based in Oslo, Norway.
 ![](https://img.shields.io/badge/-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 **Tools**:  
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
 ## ✍ Blog & Writing
 
