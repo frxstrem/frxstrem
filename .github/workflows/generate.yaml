@@ -14,3 +14,7 @@ jobs:
 
       - name: Generate README.md
         run: ./generate.sh
+
+      - uses: stefanzweifel/git-auto-commit-action@c7ad0bdb15809dc9825b3017c243da42dec21324
+        with:
+          commit_message: Apply automatic changes
