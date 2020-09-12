@@ -26,7 +26,7 @@
   - text: Python
     logo: python
   - text: Bash
-    logo: bash
+    logo: gnu-bash
 
 - title: Tools
   items:
@@ -39,4 +39,4 @@
   - text: PostgreSQL
     logo: postgresql
   - text: Google Cloud
-    logo: googlecloud
+    logo: google-cloud
