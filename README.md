@@ -14,7 +14,7 @@ My name is Fredrik Østrem and I'm a full-stack developer based in Oslo, Norway.
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
 **Tools**:  
