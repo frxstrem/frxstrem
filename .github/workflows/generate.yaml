@@ -12,8 +12,5 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - name: Install js-yaml
-        run: npm install -g js-yaml
-
       - name: Generate README.md
         run: ./generate.sh
