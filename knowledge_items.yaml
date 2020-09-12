@@ -13,6 +13,8 @@
     logo: rust
   - text: JavaScript
     logo: javascript
+  - text: TypeScript
+    logo: typescript
   - text: Java
     logo: java
   - text: C#
@@ -21,6 +23,10 @@
     logo: c++
   - text: C
     logo: c
+  - text: Python
+    logo: python
+  - text: Bash
+    logo: bash
 
 - title: Tools
   items:
@@ -32,3 +38,5 @@
     logo: mysql
   - text: PostgreSQL
     logo: postgresql
+  - text: Google Cloud
+    logo: googlecloud
