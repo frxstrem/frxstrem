@@ -1,0 +1,34 @@
+- title: Operating systems
+  items:
+  - text: Linux
+    logo: linux
+  - text: Windows
+    logo: windows
+  - text: macOS
+    logo: apple
+
+- title: Languages
+  items:
+  - text: Rust
+    logo: rust
+  - text: JavaScript
+    logo: javascript
+  - text: Java
+    logo: java
+  - text: C%23
+    logo: c-sharp
+  - text: C++
+    logo: c%2B%2B
+  - text: C
+    logo: c
+
+- title: Tools
+  items:
+  - text: Docker
+    logo: docker
+  - text: Kubernetes
+    logo: kubernetes
+  - text: MySQL
+    logo: mysql
+  - text: PostgreSQL
+    logo: postgresql
