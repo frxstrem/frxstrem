@@ -28,8 +28,10 @@
   - text: Bash
     logo: gnu-bash
 
-- title: Tools
+- title: Tools and techonlogies
   items:
+  - text: Git
+    logo: git
   - text: Docker
     logo: docker
   - text: Kubernetes
@@ -40,3 +42,5 @@
     logo: postgresql
   - text: Google Cloud
     logo: google-cloud
+  - text: WebAssembly
+    logo: webassembly
