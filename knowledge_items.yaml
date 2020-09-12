@@ -15,10 +15,10 @@
     logo: javascript
   - text: Java
     logo: java
-  - text: C%23
+  - text: C#
     logo: c-sharp
   - text: C++
-    logo: c%2B%2B
+    logo: c++
   - text: C
     logo: c
 
