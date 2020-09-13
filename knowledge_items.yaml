@@ -1,12 +1,3 @@
-- title: Operating systems
-  items:
-  - text: Linux
-    logo: linux
-  - text: Windows
-    logo: windows
-  - text: macOS
-    logo: apple
-
 - title: Languages
   items:
   - text: Rust
@@ -27,6 +18,15 @@
     logo: python
   - text: Bash
     logo: gnu-bash
+
+- title: Operating systems
+  items:
+  - text: Linux
+    logo: linux
+  - text: Windows
+    logo: windows
+  - text: macOS
+    logo: apple
 
 - title: Tools and techonlogies
   items:
